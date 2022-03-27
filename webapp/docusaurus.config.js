@@ -1,12 +1,12 @@
 module.exports = {
-  title: "My Site",
+  title: "Mon site",
   tagline: "The tagline of my site",
-  url: "https://saic-oss.github.io",
+  url: "https://kiridok666.github.io",
   baseUrl: "/docusaurus-example/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "saic-oss", // Usually your GitHub org/user name.
+  organizationName: "kiridok666", // Usually your GitHub org/user name.
   projectName: "docusaurus-example", // Usually your repo name.
   themeConfig: {
     navbar: {
